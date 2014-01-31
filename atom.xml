@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Simon Gao's Blog]]></title>
+  <link href="http://simiaogao.com/atom.xml" rel="self"/>
+  <link href="http://simiaogao.com/"/>
+  <updated>2014-01-31T14:44:29-05:00</updated>
+  <id>http://simiaogao.com/</id>
+  <author>
+    <name><![CDATA[Simon Gao]]></name>
+    <email><![CDATA[simongao888@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why I started this blog]]></title>
+    <link href="http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog/"/>
+    <updated>2014-01-31T14:19:04-05:00</updated>
+    <id>http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
