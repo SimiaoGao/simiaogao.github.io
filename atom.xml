@@ -4,7 +4,7 @@
   <title><![CDATA[Simon's Blog]]></title>
   <link href="http://simiaogao.com/atom.xml" rel="self"/>
   <link href="http://simiaogao.com/"/>
-  <updated>2014-01-31T17:17:21-05:00</updated>
+  <updated>2014-01-31T17:31:39-05:00</updated>
   <id>http://simiaogao.com/</id>
   <author>
     <name><![CDATA[Simon Gao]]></name>
@@ -18,7 +18,21 @@
     <link href="http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog/"/>
     <updated>2014-01-31T14:19:04-05:00</updated>
     <id>http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hello!</p>
+
+<p>I&rsquo;ve been thinking what should I post for the first blog for awhile, but haven&rsquo;t really came up with any good idea. So rather than me keep thinking forever, let&rsquo;s just talk about why I created this blog site.</p>
+
+<p>As a novice developer, I often found myself struggling with two things:</p>
+
+<ol>
+<li><strong>Bad Long Term Memory</strong>. Let&rsquo;s say that I want to set up something, for example, setting up hadoop server. I read instructions from book, google when I encounter a problem, and ask on stackoverflow if solution cannot be found. Eventually, I completed the task. Then six month later, something happens and I have to redo this exact same task again. Suddenly, I found that all my memory about what I did has been totally flushed. So, in the end, I have to start fresh again. This is really inefficient.</li>
+<li><strong>Need a New Project Idea</strong>. I always want to create something, that&rsquo;s really why I choose to be a developer, but often of the time I found that coming up with a project idea is hard. So, with all the knowledge and skills, I have nothing to do.</li>
+</ol>
+
+
+<p>That sorta explains why I need this blog: to log what I&rsquo;ve done and to write thoughts that come up to my mind which has the potential to turn up to be a project.</p>
+
+<p>It is a naive approach, but I seriously hope this could be a good start.</p>
 ]]></content>
   </entry>
   
