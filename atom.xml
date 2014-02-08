@@ -4,7 +4,11 @@
   <title><![CDATA[Simon's Blog]]></title>
   <link href="http://simiaogao.com/atom.xml" rel="self"/>
   <link href="http://simiaogao.com/"/>
+<<<<<<< HEAD
   <updated>2014-02-08T17:04:16-05:00</updated>
+=======
+  <updated>2014-01-31T17:31:39-05:00</updated>
+>>>>>>> 7c0893a3e9c0633dd4d715ab8ce9236af89ab79a
   <id>http://simiaogao.com/</id>
   <author>
     <name><![CDATA[Simon Gao]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[How to SSH into a remote host without password]]></title>
     <link href="http://simiaogao.com/blog/2014/02/07/how-to-ssh-into-a-remote-host-without-password/"/>
     <updated>2014-02-07T21:53:05-05:00</updated>
@@ -153,11 +158,17 @@
   </entry>
   
   <entry>
+=======
+>>>>>>> 7c0893a3e9c0633dd4d715ab8ce9236af89ab79a
     <title type="html"><![CDATA[Why I started this blog]]></title>
     <link href="http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog/"/>
     <updated>2014-01-31T14:19:04-05:00</updated>
     <id>http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog</id>
+<<<<<<< HEAD
     <content type="html"><![CDATA[<p>Hello~</p>
+=======
+    <content type="html"><![CDATA[<p>Hello!</p>
+>>>>>>> 7c0893a3e9c0633dd4d715ab8ce9236af89ab79a
 
 <p>I&rsquo;ve been thinking what should I post for the first blog for awhile, but haven&rsquo;t really came up with any good idea. So rather than me keep thinking forever, let&rsquo;s just talk about why I created this blog site.</p>
 
