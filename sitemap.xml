@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://simiaogao.com/blog/2014/01/31/why-i-started-this-blog/</loc>
+        <loc>http://ssgao.com/blog/2014/01/31/why-i-started-this-blog/</loc>
         <lastmod>2014-02-06T19:52:48-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://simiaogao.com/blog/2014/02/07/how-to-ssh-into-a-remote-host-without-password/
+            http://ssgao.com/blog/2014/02/07/how-to-ssh-into-a-remote-host-without-password/
         </loc>
         <lastmod>2014-02-08T17:11:36-05:00</lastmod>
     </url>
     <url>
-        <loc>http://simiaogao.com/blog/2014/03/25/dreamspark-is-back-to-rutgers/</loc>
+        <loc>http://ssgao.com/blog/2014/03/25/dreamspark-is-back-to-rutgers/</loc>
         <lastmod>2014-03-25T23:23:27-04:00</lastmod>
     </url>
     <url>
-        <loc>http://simiaogao.com/robots.txt</loc>
+        <loc>http://ssgao.com/robots.txt</loc>
         <lastmod>2014-01-31T13:50:33-05:00</lastmod>
     </url>
     <url>
-        <loc>http://simiaogao.com/blog/archives/</loc>
+        <loc>http://ssgao.com/blog/archives/</loc>
         <lastmod>2014-03-25T23:23:27-04:00</lastmod>
     </url>
     <url>
-        <loc>http://simiaogao.com/blog/categories/</loc>
+        <loc>http://ssgao.com/blog/categories/</loc>
         <lastmod>2014-01-31T16:55:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://simiaogao.com/</loc>
+        <loc>http://ssgao.com/</loc>
         <lastmod>2014-03-25T23:23:27-04:00</lastmod>
     </url>
 </urlset>

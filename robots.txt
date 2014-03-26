@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://simiaogao.com/sitemap.xml 
+Sitemap: http://ssgao.com/sitemap.xml 
