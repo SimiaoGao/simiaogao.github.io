@@ -4,7 +4,7 @@
   <title><![CDATA[Simon's Blog]]></title>
   <link href="http://simiaogao.com/atom.xml" rel="self"/>
   <link href="http://simiaogao.com/"/>
-  <updated>2014-02-08T17:11:47-05:00</updated>
+  <updated>2014-03-25T23:12:47-04:00</updated>
   <id>http://simiaogao.com/</id>
   <author>
     <name><![CDATA[Simon Gao]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dreamspark is Back to Rutgers]]></title>
+    <link href="http://simiaogao.com/blog/2014/03/25/dreamspark-is-back-to-rutgers/"/>
+    <updated>2014-03-25T22:47:47-04:00</updated>
+    <id>http://simiaogao.com/blog/2014/03/25/dreamspark-is-back-to-rutgers</id>
+    <content type="html"><![CDATA[<p>Earlier this semester, all of us received this message when we login to <a href="http://elms.rutgers.edu/">Rutgers Dreamspark</a>.</p>
+
+<p><img src="http://simiaogao.com/images/2014-03-25-Dreamspark-Old.png" alt="Old Dreamspark" /></p>
+
+<p>It&rsquo;s like&hellip;</p>
+
+<p><img src="http://nickfanon.wikia.com/wiki/File:What-the-fuck-is-that.jpg" alt="WTF" /></p>
+
+<p>However, turns out that Dreamspark is still there, it&rsquo;s just that the address is changed.</p>
+
+<p>Here&rsquo;s how you can access it:</p>
+
+<ol>
+<li>Go to <a href="https://www.dreamspark.com/Student/Default.aspx">Dreamspark.com</a></li>
+<li>In the lower half of the page, you&rsquo;ll find a tab named <em>3. More Software Through Your School</em>. Click that.
+<img src="http://simiaogao.com/images/2014-03-25-Tab-3.png" alt="Tab 3" /></li>
+<li>Under the tab, you&rsquo;ll see a search box, enter <em>rutgers</em>, click the search icon.
+<img src="http://simiaogao.com/images/2014-03-25-Search-Rutgers.png" alt="Search Rutgers" /></li>
+<li>You&rsquo;ll see a dropdown shows up with different Rutgers schools/departments. Select the one you are in.
+<img src="http://simiaogao.com/images/2014-03-25-Selected-CS.png" alt="Selected CS" /></li>
+<li>Click <em>Visit the WebStore</em>. If You see a pop-up shows up, click <em>continue</em>.
+<img src="http://simiaogao.com/images/2014-03-25-Rutgers-DreamSpark.png" alt="Rutgers Dreamspark" /></li>
+<li>Click Sign In on the upper-right corner, you&rsquo;ll be redirected to Rutgers CAS. Sign in with your Rutgers username/password</li>
+<li>Now you are back to Dreamspark page. Click DreamSpark Premium
+<img src="http://simiaogao.com/images/2014-03-25-Dreamspark-Premium.png" alt="Dreamspark Premium" /></li>
+<li><em>WOW!! You are back!! And not only you are back, all your previous subscriptions are CLREARED! so you are start fresh!!</em></li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to SSH into a remote host without password]]></title>
